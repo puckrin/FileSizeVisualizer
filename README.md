@@ -2,9 +2,11 @@
 
 A Windows desktop application for visualizing disk usage across your file system. Quickly scan any folder or drive and see exactly where your storage is going, with an interactive Marimekko-style chart and sortable file list.
 
-![Platform](https://img.shields.io/badge/platform-Windows-blue) ![.NET](https://img.shields.io/badge/.NET-8.0-purple) ![Framework](https://img.shields.io/badge/framework-WPF-blueviolet)
+![Platform](https://img.shields.io/badge/platform-Windows-blue) ![.NET](https://img.shields.io/badge/.NET-8.0-purple) ![Framework](https://img.shields.io/badge/framework-WPF-blueviolet) ![Vibe Coded with Claude](https://img.shields.io/badge/vibe%20coded%20with-Claude-orange)
 
 ---
+
+![Screenshot](screenshots/FileSizeVisualizer%20v1.0.0.png)
 
 ## Features
 
@@ -85,4 +87,4 @@ Scanning runs on a background thread to keep the UI responsive, and results are 
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This proj
