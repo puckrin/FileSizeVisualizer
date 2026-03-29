@@ -31,7 +31,7 @@ A Windows desktop application for visualizing disk usage across your file system
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/FileSizeVisualizer.git
+   git clone https://github.com/puckrin/FileSizeVisualizer.git
    cd FileSizeVisualizer
    ```
 
@@ -87,4 +87,4 @@ Scanning runs on a background thread to keep the UI responsive, and results are 
 
 ## License
 
-This proj
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
