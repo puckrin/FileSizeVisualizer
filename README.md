@@ -42,9 +42,9 @@ A Windows desktop application for visualizing disk usage across your file system
 
 ### Download the executable
 
-A pre-built executable is available in the [`publish/`](publish/) folder of this repository.
+A pre-built executable is available on the [Releases](https://github.com/puckrin/FileSizeVisualizer/releases) page.
 
-1. Download `publish/FileSizeVisualizer.exe`
+1. Download `FileSizeVisualizer.exe` from the latest release
 2. Run it directly — no installation required
 
 ## Usage
